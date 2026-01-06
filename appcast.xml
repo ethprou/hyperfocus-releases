@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Hyperfocus Updates</title>
+    <link>https://ethprou.github.io/hyperfocus-releases/appcast.xml</link>
+    <description>Most recent changes with links to updates for Hyperfocus.</description>
+    <language>en</language>
+
+    <!-- v0.7.0 will be added here once notarization completes -->
+    <!--
+    <item>
+      <title>Version 0.7.0</title>
+      <description>
+        <![CDATA[
+          <h2>Hyperfocus Friends Beta</h2>
+          <ul>
+            <li>First-run onboarding flow</li>
+            <li>Debug mode and log export</li>
+            <li>Auto-updates via Sparkle</li>
+            <li>Privacy-focused cloud analysis</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://ethprou.github.io/hyperfocus-releases/Hyperfocus-0.7.0.dmg"
+        sparkle:version="1"
+        sparkle:shortVersionString="0.7.0"
+        sparkle:edSignature="SIGNATURE_HERE"
+        length="SIZE_HERE"
+        type="application/octet-stream" />
+    </item>
+    -->
+
+  </channel>
+</rss>
