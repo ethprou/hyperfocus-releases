@@ -7,6 +7,28 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.9.3</title>
+      <description>
+        <![CDATA[
+          <h2>Fix Sparkle Check for Updates Button</h2>
+          <ul>
+            <li>Fixed "Check for Updates" button not working in Settings</li>
+            <li>Fixed EdDSA key format for Sparkle verification</li>
+            <li>Improved update logging for diagnostics</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sun, 19 Jan 2026 22:00:00 +0000</pubDate>
+      <enclosure
+        url="https://ethprou.github.io/hyperfocus-releases/Hyperfocus-0.9.3.dmg"
+        sparkle:version="4"
+        sparkle:shortVersionString="0.9.3"
+        sparkle:edSignature="e5W5OOk4W/pYIicDdcsfwrYuQl8sTmfDNafOv8dB2BLgVs/d5uVfIhjD9SkY/sISMhkFERkzZuJq0hyqslQyAg=="
+        length="9931353"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.9.1</title>
       <description>
         <![CDATA[
