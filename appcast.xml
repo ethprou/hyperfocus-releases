@@ -6,31 +6,26 @@
     <description>Most recent changes with links to updates for Hyperfocus.</description>
     <language>en</language>
 
-    <!-- v0.7.0 will be added here once notarization completes -->
-    <!--
     <item>
-      <title>Version 0.7.0</title>
+      <title>Version 0.9.1</title>
       <description>
         <![CDATA[
-          <h2>Hyperfocus Friends Beta</h2>
+          <h2>Fix Gemini API Proxy Integration</h2>
           <ul>
-            <li>First-run onboarding flow</li>
-            <li>Debug mode and log export</li>
-            <li>Auto-updates via Sparkle</li>
-            <li>Privacy-focused cloud analysis</li>
+            <li>Fixed Gemini API key not working in release builds</li>
+            <li>Improved camera permission dialog in release builds</li>
           </ul>
         ]]>
       </description>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Jan 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://ethprou.github.io/hyperfocus-releases/Hyperfocus-0.7.0.dmg"
-        sparkle:version="1"
-        sparkle:shortVersionString="0.7.0"
-        sparkle:edSignature="SIGNATURE_HERE"
-        length="SIZE_HERE"
+        url="https://ethprou.github.io/hyperfocus-releases/Hyperfocus-0.9.1.dmg"
+        sparkle:version="2"
+        sparkle:shortVersionString="0.9.1"
+        sparkle:edSignature="8Q/Al7SxqlKtVn7aIpR/qXmGSxaiv3lNGvE3DltGRNhDj2YmkS0WP1Y5h/IIRiANVynQ4ARql4PX4plaUN/ZBQ=="
+        length="9926889"
         type="application/octet-stream" />
     </item>
-    -->
 
   </channel>
 </rss>
