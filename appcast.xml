@@ -7,24 +7,26 @@
     <language>en</language>
 
     <item>
-      <title>Version 0.9.5</title>
+      <title>Version 0.10.0</title>
       <description>
         <![CDATA[
-          <h2>Fix Focus Score Calculation</h2>
+          <h2>Universal Leaderboard + User Profiles</h2>
           <ul>
-            <li>Fixed alignment state persisting incorrectly after enforcement closes a misaligned app</li>
-            <li>Focus scores now accurately reflect actual productivity</li>
-            <li>Time after enforcement is correctly marked as focused (not distracted)</li>
+            <li>New leaderboard showing all beta testers</li>
+            <li>Time-based filtering: Today, This Week, This Month</li>
+            <li>Add profile pictures and "Working on" bio</li>
+            <li>Editable profile from your leaderboard card</li>
+            <li>Renamed Friends tab to Leaderboard</li>
           </ul>
         ]]>
       </description>
-      <pubDate>Fri, 24 Jan 2026 17:20:00 +0000</pubDate>
+      <pubDate>Fri, 24 Jan 2026 19:00:00 +0000</pubDate>
       <enclosure
-        url="https://ethprou.github.io/hyperfocus-releases/Hyperfocus-0.9.5.dmg"
-        sparkle:version="6"
-        sparkle:shortVersionString="0.9.5"
-        sparkle:edSignature="kbtpljBjfbeMpfwfqp0i9OKxNzIfmFI/EmcEni2zxiBDf+ksjBQSLsQri86y2pavEvfJDyH8Y0b7Vtew+QdXDw=="
-        length="9935986"
+        url="https://ethprou.github.io/hyperfocus-releases/Hyperfocus-0.10.0.dmg"
+        sparkle:version="7"
+        sparkle:shortVersionString="0.10.0"
+        sparkle:edSignature="kO0zzp16z07edH4YLkZjIn+QHjEsKjMK222MeI3zfW8kNmbjRkJozgnUbdzKOykTxZHnqgJOhawaIaZbwXTcDA=="
+        length="10134715"
         type="application/octet-stream" />
     </item>
 
