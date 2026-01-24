@@ -6,6 +6,7 @@ This repository hosts releases for [Hyperfocus](https://github.com/ethprou/focus
 
 | Version | Date | Download |
 |---------|------|----------|
+| v0.9.5 | 2026-01-24 | [Hyperfocus-0.9.5.dmg](https://ethprou.github.io/hyperfocus-releases/Hyperfocus-0.9.5.dmg) |
 | v0.9.4 | 2026-01-19 | [Hyperfocus-0.9.4.dmg](https://ethprou.github.io/hyperfocus-releases/Hyperfocus-0.9.4.dmg) |
 | v0.9.3 | 2026-01-19 | [Hyperfocus-0.9.3.dmg](https://ethprou.github.io/hyperfocus-releases/Hyperfocus-0.9.3.dmg) |
 
